@@ -15,7 +15,15 @@ run json-server -H localIpComputer db.json
 egg: 
 - local ip : 192.168.42.142
 - json-server -H 192.168.42.142 db.json
- 
+
+## generate new database
+make sure for use nodejs with minimum version 14.
+and running
+```
+run npm install 
+```
+for install node modules dependencies
+
 ## Setting Url Endpoint
 for flutter endpoint you can go to repositories and change apiUrl to your local ip that running server, and you ready to go
 
