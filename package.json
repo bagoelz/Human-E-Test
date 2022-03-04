@@ -1,0 +1,15 @@
+{
+    "name": "FeedServer",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A server test for Human E Test",
+    "author": "Mahesa Putra",
+    "dependencies": {
+        "faker": "^6.6.6",
+        "json-server": "^0.17.0",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^6.0.0-alpha.7"
+    }
+}
