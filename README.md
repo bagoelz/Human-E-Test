@@ -12,6 +12,9 @@ check local IP then for run server on localserver / localcomputer
 ```
 run json-server -H localIpComputer db.json
 ```
+egg: 
+- local ip :192.168.42.142
+- json-serber -H 192.168.42.142 db.json
  
 ## Setting Url Endpoint
 for flutter endpoint you can go to repositories and change apiUrl to your local ip that running server, and you ready to go
