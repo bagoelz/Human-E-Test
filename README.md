@@ -7,7 +7,7 @@ Install JSON Server (check repositories)
 npm install -g json-server
 ```
 ## Create Server
-user db.json inside server folder or generate new db based on createData.js
+use db.json inside server folder or generate new db based on createData.js
 check local IP then for run server on localserver / localcomputer
 ```
 run json-server -H localIpComputer db.json
