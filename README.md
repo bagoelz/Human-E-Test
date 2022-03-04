@@ -27,7 +27,7 @@ for install node modules dependencies
 and then you can generate new database with
 
 ```
-run json-server createDate,js
+run json-server createData.js
 ```
 ## Setting Url Endpoint
 for flutter endpoint you can go to repositories and change apiUrl to your local ip that running server, and you ready to go
